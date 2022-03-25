@@ -1,6 +1,6 @@
 {
-  "name": "down-cli",
-  "version": "0.0.1",
+  "name": "x-create-app-cli",
+  "version": "1.0.0",
   "description": "cli",
   "main": "index.js",
   "type": "commonjs",
