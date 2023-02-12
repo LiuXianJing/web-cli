@@ -1,3 +1,20 @@
+## Front-end scaffold: can handle command interaction, terminal information prompt, pull project template, and change file content
+
+
+### Example of command usage: down-cli init
+
+
+### Dependent packages used:
+#### commander: process terminal commands, such as the init command of down-cli init
+#### fs-extra: file operation
+#### inquirer: user interaction
+#### download-git-repo: pull the warehouse project template
+#### handlebars: used to modify file contents
+#### ora: loading effect
+#### log-symbols: print logs
+
+--------------------------------------------------------------------------
+
 ## 前端脚手架：能够处理命令交互、终端信息提示、拉取项目模板、更改文件内容
 
 ### 命令使用方式示例：down-cli init
